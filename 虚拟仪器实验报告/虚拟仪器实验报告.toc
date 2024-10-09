@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}第一次课}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}电阻伏安曲线测量结果}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}二极管的正反向伏安特性曲线}{5}{subsection.1.2}%
+\contentsline {section}{\numberline {2}第二次课}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}电容电感表征测量}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Fano线型的探究}{10}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}实验结果}{10}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}对一些参数的改变}{12}{subsubsection.2.2.2}%
+\contentsline {paragraph}{对$C_2$的改变}{12}{paragraph*.2}%
+\contentsline {paragraph}{对$R$的改变}{14}{paragraph*.3}%
+\contentsline {paragraph}{对$C$的改变}{15}{paragraph*.4}%
+\contentsline {subsubsection}{\numberline {2.2.3}对结果的分析}{16}{subsubsection.2.2.3}%
+\contentsline {paragraph}{关于Fano线型}{16}{paragraph*.5}%
+\contentsline {paragraph}{对$C_2$的改变}{16}{paragraph*.6}%
+\contentsline {paragraph}{对$R$的改变}{16}{paragraph*.7}%
+\contentsline {paragraph}{对$C$的改变}{16}{paragraph*.8}%
